@@ -1,0 +1,10 @@
+[package]
+name = "winterfell_ffi"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "winterfell_ffi"
+crate-type = ["staticlib"]
+
+[dependencies]
